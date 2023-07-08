@@ -130,4 +130,13 @@ main{
 }
 .skills-container{
     display: flex;
+    gap: 24px;
+}
+.skills{
+    padding: 30px;
+    
+
+}
+.skill-description{
+    
 }
